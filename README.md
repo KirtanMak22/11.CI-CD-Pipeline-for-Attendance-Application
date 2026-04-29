@@ -1,11 +1,11 @@
 # 11.CI-CD-Pipeline-for-Attendance-Application
 
-Purpose: Auto deploy attendance system
+~ Purpose: Auto deploy attendance system
 
-AWS Services:
+~ AWS Services:
 
-      CodePipeline
-      EC2 / S3
+            CodePipeline
+            EC2 / S3
 
 
 S3 Bucket:
